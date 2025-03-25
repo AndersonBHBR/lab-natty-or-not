@@ -22,3 +22,14 @@ Este e-book se destaca por apresentar um conteúdo rico, com informações relev
 ## 💭 Reflexão Final
 A experiência de criar este e-book reforçou a importância da Inteligência Artificial como uma ferramenta inovadora para a produção de conhecimento. Mais do que uma tendência, a IA Generativa está se tornando uma aliada indispensável para escritores, artistas, pesquisadores e profissionais de diversas áreas. Ao explorarmos seu potencial, estamos não apenas acompanhando o futuro, mas também ajudando a moldá-lo.
 
+## ✒️ Autor
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/7528140?v=4"/>
+    <p>&nbsp&nbsp&nbspAnderson Lima Araújo<br>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/andersonbhbr">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/AndersonBHBR">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/anderson-araujo-pcd/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.behance.net/andersonbhbr">Behance</a></p>
+</p>
+<br/><br/>
+<p>
+
+---
+⌨️ por [Anderson Lima Araújo](https://github.com/AndersonBHBR) 😊#
